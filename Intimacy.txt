@@ -1,44 +1,67 @@
 Characters: Madhu & Ravi(On Screen), Rajesh(Off Screen)
 Location: Need a house with one hall and one kitchen. 
           Interior - Hall(One scene on day, One scene on Night), Interior - Kitchen(Night)
-Hall Description:- One sofa with capcity of two people sitting. One table in front of sofa. One TV opposite to 
+Hall Description:- One sofa with capacity of two people sitting. One table in front of sofa. One TV opposite to 
                     direction of sofa.
 Scene:-
 Interior - House(Hall) - Night:
-    Ravi and Madhu are watching TV in hall by resting on sofa. Ravi sits straight while Madhu rests her 
-    head on his shoulder.Ravi eats popcorn and shares some popcorn to Madhu. Some of the popcorn falls down while eating,
+    Ravi and Madhu are watching TV in hall by resting on sofa. Ravi sits straight - rightmost edge of the sofa, while Madhu rests her 
+    head on his shoulder.Bowl of popcorn sits on handle of sofa, Ravi eats some popcorn from bowl. Picks the bowl and shares some popcorn to Madhu. 
+    Some of the popcorn falls down while madhu taking it,
+    (The popcorn piece rests on the floor while the background is blurred, but we can see Ravi leg behind the popcorn piece-Night)
     Ravi bends to pick it.
                             (Scenes Cuts to)
 Interior - House(Hall) - Day:
-    Ravi picks up the bud that is laying on the floor and stores in his earbuds box. Madhu is in kitchen, cooking.
-    Ravi lays on the sofa.
-Ravi:- Inka entha sepu......?? (Power On's the TV with remote)
+    (While picking the popcorn same position and same hand, Suddenly changes from Nigh tot Day)
+    (The popcorn piece rests on the floor while the background is blurred, but we can see Ravi leg - same trackpant - behind the popcorn piece.)
+
+    Ravi picks up the popcorn, blows to remove the dust - eats it . Madhu is in kitchen, cooking.
+    Ravi sits straight - rightmost edge of the sofa. Holding a popcorn Packet(Silar to lays packets) in his hand (wearing same color track pant, maybe different shirt/T-shirt)
+
+
+Ravi:- Inka entha sepu......?? (Watching TV)
 Madhu:-(Hits on his head with an utensil) Vanta cheydam antey debugging chesinantha simple kaadhu.
     Madhu Sits beside him on the sofa picks his phone. Holds his cheeks, turn's towards her and tries to unlock ravi's phone using face lock.
+    
+    (From hitting on his head to sitting on sofa is single continous take)
+
 Madhu:- Enti nee phn ki face lock ledha ?
+
+(Camers height would be face level of madhu, tilted towards Ravi. Frame right side wold be Madhu's side face and left would be Ravi half body )
+
 Ravi:- Yeli mudhra undhi....(Gives his thumb).
-    Madhu unlocks his phn with his thumb. Sets her face as face lock. Holds Ravi's face and
-    sets his face too as his phone screen lock.
+    Madhu unlocks his phn with his thumb. 
+Ravi:- Abba naa veylu....
+    Sets her face as face-lock. Holds Ravi's face and sets his face too as his phone screen lock.
+
+    (Camera would be facing towards ravi, where we can see madhu's hands and the phone she is holding. One hand holds ravi face other hand phone)
+
 Ravi:- Em chestunaavey ???
     Madhu unlocks her phone using her face ID. And Again Holds ravi's face and sets ravi's face ID to her phone too.
 Madhu:- Naa phone ki Naatho paatu nee face ID kuda undali, alagey nee phn ki naa face ID undali. 
 Ravi:- Saripoyindhi......
-    Madhu stands up. Walks and positions herself between ravi and tv, stands in the middle.(puts one hand on her waist).
+Madhu:- Enti saripoyindhi.....HA?????
+    Madhu stands up. Walks and positions herself between ravi and tv, stands in the middle.(puts one hand on her waist, other hand hold ravi's phone).
 Madhu:- Enti saripoyindhi.....HA?????. Neeku oka poota kadupu maadchithey gaani saripoodhu....
-Ravi:- Sorry ey baabu....!! Naa phn ila ivvu
+Ravi:- Sorry ey baabu....!! Naa phn ila ivvu.......
 Madhu:-(Nods her head) I love You cheppu.......
-Ravi:- (confused)
-Madhu:- Cheppu...(blackmailing posture)
+Ravi:- (confused)(TV plays - brahmi voice  Naak ardham kaaledhu sir....)
+Madhu:- (Raising voice)Cheppu...(blackmailing posture) (TV plays - Chandhrmukho - idhem karma ra devudaa )
 Ravi:- I love You, I love you soo much (smiles)
 Madhu:- Teesuko (keeps his phone on the table and leaves)
-    Ravi bends to take his phone
+    Ravi looks her leaving . Exhales and bends to take his phone
                                     (Scenes cuts to Inital)
 Interior - House(Hall) - Night:
     Ravi picks the phone which is on the table, Smiles... looks Madhu(Lying on his shoulder). Adjusts his phone towards her face
-    and unlocks his phone.
+    and unlocks his phone. Uses his phone..........
+
+    (Ravi initially picks his phone sitting on sofa Day, That changes to night where sitting on sofa and madhu lays on his shoulder)
+
 Madhu:- PopCorn theyyy.....
 Ravi:- Haa???
-Madhu:- Sorry ayyipoindhi ga, kitchen lo snacks untaay theyyy....
+Madhu:- ayyi poyayaa, kitchen lo snacks untaay theyyy....
+
+Interior - House(Kitchen) - Night:
     Ravi walks towards the kitchen picks some snack(Lays, Kurukure or whatever). Meanwhile madhu phn sounds with
     a notification.
 Madhu:- Vacheytappudu naa phn kuda theyyy...
@@ -46,8 +69,10 @@ Madhu:- Vacheytappudu naa phn kuda theyyy...
     The phn receives another message, screen turns ON, ravi looks at it... the phone unlocks automatically with his Face ID
     A WhatsApp message saying "Squirting in the middle on intercourse..!! Emojis" "Is another level of Orgasm Emojis".
     Ravi's face turns awkard after seeing that msg. The message is received from a contact named Rajesh. He presses power button(turns off the screen)
-    and walks towards hall. Sits beside her, gives her the snacks and phnone. Madhu sits normally instead of leaning. Checks her phn msg
-    Laughs....
+    and walks towards hall. 
+
+Interior - House(Hall) - Night:
+Sits beside her, gives her the snacks and phone. Madhu sits normally instead of leaning. Checks her phn msg Laughs....
 Ravi:- Enti navvutunnav ???
 Madhu:- Edho msg (and keeps her phone aside.)
 Ravi:- Em msg..?
@@ -64,32 +89,35 @@ Ravi:- Nee phn ki vachina msg.... nen chusaa....!
 Ravi:- Neeku Dirty talk antey istama ????
 Madhu:- (No answer, Sits without any movement)
 Ravi:- Naatho enduku cheppaledhu..?
-Madhu:- Cheptey nuvvu nannu ekkada takkuva ga chustavo ani.....
+Madhu:- Cheptey nuvvu nannu takkuva ga chustav ani.....
 Ravi:- Mari aa rajesh gaadiki cheppav..???
 Madhu:- Vaadu oka waste gaadu, vaadu na gurinchi em anukunntey enti... kaani nuv naa gurinchi anukodam istam le.
-Ravi:- Hmmm.....(Exhales). Nenu okkapudu porn chusey vaadini ani neeku cheppa... gurthundha...?, 
+Ravi:- Hmmm.....(Exhales). Nenu okkapudu porn chusey vaadini, adhi neeku cheppa... gurthundha...?, 
        even though nuv porn chusey vaalni pervert la chustav ani telisina nen neeku cheppa !!
-Madhu:- Andukey cheppale! Porn chusey vaalni pervert la chustundhi, kaani idhi maatram dirty talk encourage chestundhi ani ankuntav....
-        Cheppey vi emo savitri neethulu, chesy vi emo tappudu panulu ani ekkada anukuntaavo ani......(mutters)cheppale
+Madhu:- Andukey cheppale! 
+Ravi:- (Question Mark)
+Madhu:- Porn chusey vaalni thidutundhi, kaani idhi maatram dirty talk encourage chestundhi ani ekkada antaavo (mutters)ani...
+        (Pause)
+        Cheppey vi emo savitri neethulu, chesy vi emo tappudu panulu anukuntaav.......
 Ravi:- Nuvu savitri neethulu cheppina swami vivekanandhudu vi cheppina nenu neethoney untaa gaani, Savitri nee kanna goppa maatalu 
-       cheppindhi ani tana daggariki velliponu ga...! Antha enduku maa boss naa kanna intelligent and hardworking 
-       ani chaala saarlu neeku cheppa, Nannu vadhileysi maa boss daggariki vellipoya nuvvu...?
+       cheppindhi ani tana daggariki velliponu ga...! Antha enduku maa boss naa kanna intelligent, hardworking 
+       ani chaala saarlu cheppa, Nannu vadhileysi maa boss daggariki vellipoya nuvvu...?
 Madhu:- Chi..chiii.........
-Ravi:- (Laughs) Kadhaa....idhi kuda anthey. Konni saarlu nee thoughts naaku cheppinappudu nen naa opinion cheptaanu,
+Ravi:- (Laughs) Kadhaa....idhi kuda anthey. Konni saarlu nee thoughts naaku cheppinappudu naa opinion cheptaanu,
        anni saarlu naa opinion neeku nachadhu. Appudu alugutaava... konthasepu taravata normal avutaavu, But You wont leave Me..!
        Nenu kuda same, I wont leave.........!
        Manam chaala saarlu devudu ni mana kastaalu lu pattinchukovatledhu ani baadha padatam... devudu medha kopadatam.
        Kaani tellaara gaaney... talasnaanam chesi gudi chutu pradakshanaalu chestam.
-       Emotions are temporary, just like clouds they come and go. But Realtions, people are permanent. 
+       Emotions are temporary, Realtions are Not, they are permanent. 
        Mana vaalla gurinchi enni anukunna, tittukunna... malli vaalla daggarikey veltam.
-       Mem entha heroine photo ni wallpaper ga pettukunna, pellam tho kalisey aa heroine unna cinema ki veltam.
+       Entha heroine photo ni wallpaper ga pettukunna, pellam tho kalisey aa heroine unna cinema ki veltam.
        Maa nanna kuda screen saver kindha ramya krishna photo pettukuntaadu kaani, ma amma okka roju puttintiki 
        velltey, venakaaley vellipotaadu. Okka roju kuda vundaledu amma lekundaa..
-Madhu:- (In a silent and realizing tone) Sorry..!!
-Ravi:- Aa Rajesh evado naaku telidhu kaani, nuv naa drushitlo takkuva ayina parledhu. Bayata vaala drushitlo eppudu 
+Madhu:- (breathes in - in sense of crying) (or) (In a silent and realizing tone) Sorry..!!
+Ravi:- Aa Rajesh evado naaku telidhu, naa drushitlo nuv takkuva ayina parledhu. Bayata vaala drushitlo eppudu 
        taggakudadhu.............
-       Naa Madhu eppudu naaku eppudu goppey, evaru tanani takkuva cheyakudadhu....
-Madhu:- (Tears floating in her eyes...Looks towards him, Hugs Him tightly) I love You....!!!
+       Naa Madhu eppudu naaku eppudu goppey, (leans forward) evaru tanani takkuva cheyakudadhu....
+Madhu:- (Tears floating in her eyes...Looks towards him, Hugs Him tightly) Sorryy....!!!
 
-    # A state of acceptance & understanding is the simple flavour for nourshing long lasting love
+    ### A state of acceptance & understanding is the simple flavour for nourshing long lasting love
 
