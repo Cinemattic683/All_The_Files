@@ -1,7 +1,7 @@
 Difference between comparator and comparable in java
 
-    Comparator ✅ Yes, it is a functional interface.
-    Comparable ❌ No, it is not a functional interface.
+    Comparator functional interface.
+    Comparable functional interface.
 
     🔷 Comparable
     Package: java.lang
@@ -123,18 +123,4 @@ public static int maxSum(int[] arr, int k) {
 
     return max;
 }
-
-
-
-
-Ragini:- Remarks
-
-    Core java Armstrong Number - 92.5, Still need to revise some concepts in java about JVM and its basics 
-    Spring core - 1st question evaluated, All questions in CoreJava.pdf, Spring.pdf are done, 3/4 questions done in Spring rest.pdf done. Explained about Dependency Injection and types of DI. Inversion of control
-    Explained fine about Jpa Annotation.
-    Fine with basics of Oops, Collections part were Average couldn't able to explain about sets,  .  
-
-    Could able to explain about JPA, Hibernate and why we use it.
-
-    Coding question - Intially quetsion was sliding window technique, she couldn't able to do it, later given HashMap Question fo finding the frequency of alphbets in a string
 
