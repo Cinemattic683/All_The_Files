@@ -124,3 +124,44 @@ public static int maxSum(int[] arr, int k) {
     return max;
 }
 
+🔍 Why Use Spring Cloud with Spring Boot?
+Spring Boot simplifies the development of standalone Spring applications. When you start building microservices with Spring Boot, you often need additional capabilities to manage the complexity of distributed systems. That’s where Spring Cloud comes in.
+Here’s why Spring Cloud is used with Spring Boot:
+1. Service Discovery (Eureka)
+
+Automatically registers services and allows them to discover each other.
+Useful in dynamic environments where services scale up/down.
+
+2. Centralized Configuration (Spring Cloud Config)
+
+Externalizes configuration from services.
+Supports versioned configuration stored in Git or other sources.
+
+3. Load Balancing (Spring Cloud + Ribbon or Spring Cloud LoadBalancer)
+
+Distributes traffic across multiple instances of a service.
+Works with service discovery to route requests intelligently.
+
+4. API Gateway (Spring Cloud Gateway)
+
+Acts as a single entry point for all microservices.
+Handles routing, filtering, authentication, and more.
+
+5. Circuit Breaker (Resilience4j or Hystrix)
+
+Prevents cascading failures by stopping calls to failing services.
+Provides fallback mechanisms.
+
+6. Distributed Tracing (Sleuth + Zipkin)
+
+Tracks requests across multiple services.
+Helps in debugging and performance monitoring.
+
+7. Messaging and Event-Driven Architecture
+
+Integrates with message brokers like Kafka or RabbitMQ.
+Enables asynchronous communication between services.
+
+
+Shrishail:- 94 Core java 97 - collections
+            Angular assignments, Spring Cloud assignments all are implemented(Api gateway, Service gateway, cicuit breaker, JPA) except security facing error
