@@ -165,3 +165,35 @@ Enables asynchronous communication between services.
 
 Shrishail:- 94 Core java 97 - collections
             Angular assignments, Spring Cloud assignments all are implemented(Api gateway, Service gateway, cicuit breaker, JPA) except security facing error
+
+Prachi:- Angular assignments half done. Spring boot all done. Code coverage:-
+
+
+
+Spring:
+1. what is spring boot.
+2. Explain REST api.
+3. What is api gateway?
+4. Why microservices?
+
+Azure/AWS:
+1. What you did in azure?
+2. what is azure function?
+3. How you will do monitoring in azure?
+4. What you know in AWS?
+5. What is aws lambda?
+6. Where files are stored in Azure?
+
+MySQL:
+1. What is groupby?
+2. What are aggregate functions?
+3. what is trigger?
+4. What is having clause?
+5. select employee.* from employee inner join project on employee.empid=project.empid;
+
+Java:
+1. what is stream api?
+2. filter vs map
+3. map vs flatmap
+4. Explain  Multithreading in java?
+5. List<Integer> al1 = al.stream().filter(e-> e%10==0).collect(Collectors.toList());
