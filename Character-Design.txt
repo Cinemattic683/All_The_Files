@@ -1,0 +1,9 @@
+Character Design Pattern / Specifications:-
+
+    Core Identity + Personality / Behaviour + Relations Web (Family, Frnds, Enemy, Well wishers) + 
+    Post / Job / Duty / Chore + Hierarchy in Authority + Position / Responsibilities + Goal / Mentality + 
+    Past FlashBacks / Trauma + Environment / Surroundings + LifeStyle + Appearance + 
+    Habits + Catalyst + Character Arc.
+
+All of these are not mandatory to a character. Some are optional like Enemy or well wisher or Authority or Job
+or Responsibilities or Goal or Past. These can be optional
