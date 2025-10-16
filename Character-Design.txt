@@ -2,8 +2,34 @@ Character Design Pattern / Specifications:-
 
     Core Identity + Personality / Behaviour + Relations Web (Family, Frnds, Enemy, Well wishers) + 
     Post / Job / Duty / Chore + Hierarchy in Authority + Position / Responsibilities + Goal / Mentality + 
-    Past FlashBacks / Trauma + Environment / Surroundings + LifeStyle + Appearance + 
+    Past FlashBacks / Trauma + Environment / Surroundings + LifeStyle + Appearance( Disabled, Scars, Smart, Innocent,etc) + 
     Habits + Catalyst + Character Arc.
 
 All of these are not mandatory to a character. Some are optional like Enemy or well wisher or Authority or Job
 or Responsibilities or Goal or Past. These can be optional
+
+
+Coolie Movie:-
+
+    Deva:- 
+    Core Identity:- Age 70+ Old man with stylish beard 
+    Personality:- Immense Importance to Friends + Concerns for people + Runs a Mansion with less 
+                  prices for students but doesnt allow alochol or drugs inside his mansion 
+    Relations:-  Hava 19 coolies with him in mansion(Twist/Foreshadow), Daughter (Foreshadow/ Twist), Kalisha one of the coolie (Foreshadow/Twist), 
+                 Workers of Mansion are friendly with Deva, Enemies:- Dayal, Simon, Dahaa, Port Rowdies/Thugs
+    Post/Job:- Owns a Mansion + Runs the Mansion with his own rules 
+    Goal:- His goal his to kill the person mudered RajaShekar (Close Frnd)
+    Past / FlashBack :- Worked acoolie in Simon Faher's port, The coolies were lied and planned to kill in the middle of the ocean. 
+                        They escape and kills Simons Father and warns Everyone. His Friend RajaShekar marries her sister with Deva. 
+                        They both are best Frnds but got separated due to some personal conflicts. One day deva promises
+                        to RajShekhar that he wont drink alcohol, can drink when he died. 
+                        Becomes a sensation and fear for the illegal Port owners.
+    Environment:- Lives with Manison workers, students, and his Coolies(Foreshadowed), his fellow frnds.
+    LifeStyle:- Running the Manison with rules and enjoying his day happily.
+    Appearance:- His clothes were a bit dark shaded. Has a steel Bracelet to hius right hand.
+    Habits:- Never smokes, Used to drink in his past but stopped. Drinks in the Interval after 30 years.
+    Catalyst:- His enters Port with the help of Preethi to know who killed RajShekhar, 
+               turns out to find the syndicate and kills Antagonist.
+    Character Arc:- Goes to lot of struggles in between but wins at last. Doesn't change as he doesn't have any
+                    flaws Just came for revenge.
+
