@@ -42,6 +42,22 @@ For Girl:-
     work and the girl's work too. This creates a frustation as he couldn't beat the guy in meeting deadlines. So he 
     shows his frustation on the girl.
 
+Intro of the story show all tyoes of fun activities that happen in IT companies. We can create an ego conflict while they 
+are playing in fun activities
+
+Fun Activities:- 
+    Musical chairs
+    Solving a puzzle (Two persons get the same puzzle of image - Who solves first)
+    Shooting the cups on the table with a sponge ball
+    Drawing a tail for the horese blindfolded
+    Shootong a Ping pong ball in a cup on the table
+    Blowing ballone in a given time - who blows more ballons wins (Can have a competition bwtween two of them)
+    Building a tower with cups
+    Mini Tug of war
+    Fliping the bottle 
+    Hand Wrestling
+    Playing Squid Games (Forming a group of n members, where n will be revealed after the music stops)
+.......................................................................................................................................
 
     Satya - Shyam
     Mentor name:- Kajal
@@ -77,4 +93,12 @@ Story:-
     failed test case. Mentor "You are not done Satya, you still left with one failed test case !". Satya checks it...
     Mentor "The game is still on guys,This is a Hard level problem. Take your time no need to rush and all 20/20 testcases has to pass".
     Shyam raises his hand, kajal approaches him and checks his code All testcases passed 20/20. Mentor "Looks like Shyam is the winner"
-    Mentor "Give him a big round of applause....". Everyone claps for shyam. Within a split second shyam becomes famous
+    Mentor "Give him a big round of applause....". Everyone claps for shyam. Within a split second shyam becomes famous !
+    Prajwal look satya like "You Failed..!!! Is this Possible...!!". Satya says kajal my code is also done.....
+    Kajal "Very good , you are second then...."
+
+    Cut to Room.
+
+    Satya watches a movie sitting on his table in laptop, meanwhile prajwal enters room and prajwal "Orey shyam gaadu room ki vachaaka kuda 
+    coding chestunad ra" satya "neek ela telusu ?" prajwal "vaadu mana kindha room ey, ippudey kalisi vachaa...."
+    Satya continues watching tv but his mind is still replaying the incident happended.. 
