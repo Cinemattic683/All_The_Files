@@ -12,7 +12,7 @@ Do screenplays contain emotions for actors?
         “She acts angry”
         “He cries emotionally because he is scared”
 
-    Those are considered “on-the-nose” direction—filmmakers avoid this because:
+    Those are considered “on-the-nose” direction — filmmakers avoid this because:
 
         Actors interpret emotions themselves
         Directors guide emotional tone
