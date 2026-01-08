@@ -1,0 +1,67 @@
+The Primary Emotions for Human (Ekman / Plutchik models):-
+    1. Joy
+    2. Trust
+    3. Fear
+    4. Surprise/Shock
+    5. Sadness
+    6. Disgust
+    7. Anger
+    8. Anticipation
+    9. Joy + Trust = love
+    10. Anger + Disgust = Contempt
+    11. Fear + Surprise = Awe
+    12. Sadness + Disgust = Remorse
+    13. Surprise + Anticipation = Optimism
+    14. Anger + Anticipation = Aggressiveness
+    15. Fear + Sadness = Despair
+    16. Joy + Surprise = Delight
+
+    Emotions are temporary internal states triggered by events. They Come -> Peak -> Fade.
+
+The 5-Layer Human Model:-
+    1. Emotion (Momentary State):- A short-term internal feeling triggered by events
+        Examples:- Anger, Fear, Joy, Disgust, Sadness
+
+    2. Trait (Emotinal Tendency):- An emotion represents so often it becomes a default response
+        Examples:- Easily Irritated -> Anger prone
+                    Constantly alert -> Anxious
+                    Hard to excite -> Emotionally flat
+                    Optimistic -> Joy Learning
+                    Suspicious -> Fear/Trust imbalance
+    
+    3. Defence Mechanism (Emotinal Protection):- Automatic psychological strategy to avoid pain
+        Examples:- Ego -> Dominates to avoid shame
+                   Humor -> Jokes to avoid vulnerability
+                   Detachment -> Shuts down emotions
+                   Control -> Micromanages to avoid chaos
+                   Aggression -> Attacks before being hurt
+        Activated when traits are threatened
+        Defence Mechanisms (Inner Mechanisms Not survival) are triggered only when people cross their boudries
+        Pushes from their comfort zone, insult their Identity, etc.
+    
+    4. Habit / Behaviour (Visible pattern):- Repeated external action caused by Trait + Defense
+        Examples:- Procastination, Avioding Eye contact, Overworking, Interrupting others,
+                    Picking fights, Staying silent
+        This is what audience sees 
+    
+    5. Personality (The Full Pattern):- The consistent combination of the above four layers over time
+        Examples:- Rebellious but wounded
+                   Charming yet emotionally avoidant
+                   Quiet, Intense, and Controlling
+                   Loud, Defensive, Impulsive
+            
+The 5-Layer Model Flow:-
+
+    EVENT 
+    |
+    Emotion (What they feel)
+    |
+    Trait (What they feel often)
+    |
+    Defense (How they Protect)
+    |
+    Habit (What they Do)
+    |
+    Personality (Who they appear to be)
+    
+
