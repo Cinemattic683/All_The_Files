@@ -1,76 +1,3 @@
-Sarah 20's Pretty Software employee.
-    Outer personality:- Looks pretty childish and cute most times. Dances and behaves like child 
-    Habit:- Overshares personal stories, even with frnds she just met. Shares secrets mistakenly and regrets later. Spills words for no reason.
-            Cares for frnds and family.
-    Speaking style:- talks fast, words slightly rushing over eachother, things again she will forget if I take more pauses.
-    Past Failure:- When she is in inter she had a boyfriend. Bf's father got transferred to another 
-                    city which had same educational institution branch. Becoz of that distance grew, 
-                    as they were inter doesn't have much access to mobile phones. Slowly Bf felt scarcity of
-                    communication and they broke up, Long distance didn't work for her. Sarah was heartbroken.
-                    He is a nice guy and becoz of my mistake he left me.
-    Secret Fear:- I ruin relationships without realizing it. So no relation should ruin becoz of me.
-    Core Belief:- If I do good things, good things will happen to me.
-    Contridiction:- Why always bad things happen to me, Impatient to wait for good things. Does one good thing and expects other good things to happen
-    
-    Recent Past:- She made a boyfriend in mumbai when she was on internship in a software company. She believed that she found a person 
-                At mumbai. And most her fellow traniee were hindhi and she found vamsi as the only telugu friend. She use to spend more time
-                with him in office and outside Office too. Hanging out on weekends. Watching movies till late night. In office they learn together.
-                Laugh at reels, scroll insta together, have lunch together.
-                But she didn't expect that onboarding locations would be different for both of them. Again she got separated and their
-                relationship status changed to long distance.
-
-                In mumbai she met with a boy called Rishi. She started to slowly fall for him. And she felt the connection and proposed
-                to Rishi.
-
-Sindhu 20's Above Avg to Avg Sexy Software employee
-    Outer personality:- Appears strict. Stiff spine. walks like model. Here words are also strict and straight. Sometimes harsh
-    Habit:- Scrolls her phone unless someone intiates a converstaion. Avoids most converstaion assuming its unnnecessary. 
-            Cares for frnds upto some limit.
-    Speaking style:- Crisp and clear never beat around the bush. Speaks softly when she is intrested and never let anyone cross boundary
-                     even in the topics she doesn't want to share.
-    Past Failure:- Seen her best friend suffer in her relationship. From then she decided not to let anyone near her so easy. Waits and
-                   takes decision only she felt confident. She pauses even others felt confident but not her. Does immense permutations
-                   and combinations while selecting her boyfriend.
-    Secret fear:- Fear of people may her leave and the pain she need to go through.
-    Core Belief:- There no need to rush things lets tak enough time before deciding anything.
-    Contridiction:- Sometimes take lifetime to choose. Sometimes abandons the decision and things as she couldn't come to a decision.
-
-
-Ravi 20's avg Software employee 
-     Outer personality:- village personality, can sense in his accent. Composed and Casual like general men 
-     Habit:- Stays in a sense of hurry for no reason. And rushes things even though there isn't any need
-     Speaking style:- Speaks in village accent. Speaks Enough sometimes. Depending on situation 
-     Past Failure:- There isn't a failure. He waited his college time thinking that he can start relations after gaining a job.
-                    Took his parents words too serioulsy. Wrok now celebrate later. That later never came.
-                    Regrets his decision of why he didn't try in his college time where he can find plenty options. 
-     Secret Fear:- That people may leave if he didn't put efforts now. He stays with self respect region and puts his efforts
-     Core Belief:- Stay in limits and follow the rules. Then no one will cross our rules or limits. Character is important
-     Contridiction:- Sometimes crosses the limits with some people while making fun or physical boundaries
-
-Rishi 20's above avg Software employee
-     Outer personality:- Looks smart and innocent. Laughs for no reason sometimes.
-     Habit:- Cracking knuckles. Eats like pig in the name of foodie.
-     Speaking style:- Normal but sometimes speaks quick to make something sound funny or for punch line.
-     Past Failure:- Lost a girl in his college with his toxic behaviour and possesiveness. Regrets losing his soulmate. But waits for
-                    right person.
-     Secret Fear:- Lose his calm and cool becoz of his old compulsive toxic behaviour.
-     Core Belief:- Quotes and motivations work for some domains but not for every domain. Balance is needed in life.
-                   Doesn't want to rush into relation just for age of harmones.
-     Contridiction:- Does things to extent missing the point of balance in life. 
-
-Vamsi 20's Above avg Software employee
-     Outer personality:- Appears smart and rich. Seems like he grown in a wealthy family.
-     Habit:- Spends much thinking comfort comes from enough money. Born with silver spoon.
-     Speaking stlye:- Calm and with some telangana accent.
-     Past Failure:- Had a relationship in his college. She used him for his money and cheated on him. It took him almost year to recover
-                    from his breakup. From then he needs a valid reason for breakup not like "vibe didn't match" stuff.
-     Secret fear:- losing someone suddenly for no reason. Its fine if she left him with some reason or his behaviour but she shouldn't
-                   leave suddenly for no reason.
-     Core Belief:- People come for need. But the person I choose are true - they aren't hear for money.
-                   If his decision turns out to be false - he goes mad and wild
-     Contridiction:- Taunts his frnds sometimes they stay with him for money. Even he approaches woman for happiness extraction
-
-     
 Story:- 
     Scene :- Sarah's Birthday.
         INT - A Restaurent - Night 
@@ -78,7 +5,6 @@ Story:-
             Rishi bought a gift for sarah hided in his pocket to give her after completing the meal.
             Sarah is in a jolly mood full active and energetic.
 
-            Emotion/mood :- Sarah is attitude/ Doesn't think of other opnions. Rishi is in happy jolly mood eating his food.
                 Sarah:- (Eating her icecream) Hmm.....
                 Rishi:- (Exclamates) Antha bagudhaa ???
                 Sarah:- (Dancing with her shoulders - Vibing to the song played in Restaurant) Yes.....! (Shares a spoon with rishi)
@@ -304,8 +230,10 @@ Story:-
                         I want you....
                         Nuv naatho undu chaalu, evaru vachina nen chusukunta...... Nee medha okka maata raakunda nen kaapadataa
                         Naatho undu chaalu.
-                Rishi:- (Looks into her eyes - smiles) (Takes a step forward and hugs her)
+                Rishi:- (Looks into her eyes - smiles) (Takes a step forward and hugs her lightly)
+                        (Sarah confuses)
                         (Laughs - feels like he found true soul) 
                         (Picks the cofee cup from behind - gives to her) (out of concern) Taagu ..! 
+            
+                
 
-                Sarah walks out bedroom with cofee in her hand, behind her rishi steps out. Sindhu and Ravi stares at them.
