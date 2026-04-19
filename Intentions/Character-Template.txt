@@ -1,0 +1,291 @@
+CHARACTER_TEMPLATE:
+
+  BASIC_INFO:
+    name:
+    age:
+    gender:
+    occupation:
+    social_status:
+    physical_description:
+    first_impression:  # How others initially perceive them
+
+  CORE_ENGINE:
+    primary_desire:  # What they want most (deep level)
+    external_goal:   # What they are trying to achieve in the story
+    internal_need:   # What they actually need (often unconscious)
+
+    primary_fear:
+    biggest_insecurity:
+    core_wound:      # Past event that shaped them
+
+  BELIEF_SYSTEM:
+    worldview:       # How they see life (e.g., "life is unfair")
+    belief_about_self:
+    belief_about_others:
+    belief_about_success:
+    belief_about_love:
+    belief_about_power/fate/god:
+
+    dominant_lie:    # A false belief they strongly hold
+    truth_they_need_to_learn:
+
+  MORAL_FRAMEWORK:
+    values:          # Top 3–5 values (e.g., loyalty, freedom)
+    non_negotiables: # Lines they will not cross
+    moral_justifications:  # How they justify wrong actions
+
+    breaking_point:  # Situation where they may break their morals
+    worst_thing_they_can_do:
+    redemption_limit: # Can they come back after crossing the line?
+
+  PERSONALITY:
+    dominant_traits:
+    hidden_traits:
+    contradictions:  # e.g., "confident but deeply insecure"
+
+    habits:
+    quirks:
+    body_language:
+    speech_pattern:  # tone, fillers, style
+
+  EMOTIONAL_PROFILE:
+    default_state:   # calm, anxious, angry, etc.
+    emotional_triggers:
+    coping_mechanisms: # how they deal with stress
+    emotional_weakness:
+    emotional_strength:
+
+  RELATIONSHIP_BEHAVIOR:
+    with_family:
+    with_friends:
+    with_strangers:
+    with_authority:
+    with_love_interest:
+    with_enemies:
+    with_people_weaker_than_them:
+
+  LIKES_DISLIKES:
+    likes:           # tie to psychology if possible
+    dislikes:
+    comforts:        # what soothes them
+    irritations:
+
+  BACKSTORY:
+    childhood:
+    defining_moments:
+    past_failures:
+    past_successes:
+    key_relationships:
+
+  SOCIAL_MASKS:
+    public_persona:  # how they present themselves
+    private_self:    # who they really are
+    secret:          # something they hide
+
+  DECISION_MAKING:
+    how_they_make_choices:  # logic, emotion, impulse
+    risk_tolerance:
+    what_they_prioritize_under_pressure:
+
+  STRESS_TESTS:
+    love_vs_ambition:
+    truth_vs_survival:
+    loyalty_vs_self_interest:
+    power_vs_morality:
+
+    extreme_scenario_1:
+    extreme_scenario_2:
+
+  CHARACTER_ARC:
+    starting_state:
+    key_conflicts:
+    transformation:
+    ending_state:
+
+  SYMBOLISM:
+    symbolic_trait/object:
+    what_they_represent_thematically:
+
+  WRITER_NOTES:
+    inspiration_sources:
+    similar_characters:
+    unique_hook:  # what makes them stand out
+
+
+
+An Example:-
+
+        Step 1: Take a Filled Character (Example)
+
+        I’ll use a short version of a filled template:
+            name: Aarav
+
+            primary_desire: To be respected and seen as powerful
+            internal_need: To feel worthy without proving himself
+
+            core_wound: Grew up with a father who constantly called him weak
+
+            worldview: "Only power earns respect"
+            belief_about_self: "I am nothing unless I dominate"
+
+            values: control, respect, self-reliance
+            non_negotiable: never appear weak in front of others
+
+            breaking_point: humiliation in public
+
+            personality:
+            dominant: controlled, sharp, observant
+            hidden: insecure, approval-seeking
+
+            with_love_interest: distant, avoids vulnerability
+            with_authority: competitive, subtly rebellious
+
+            speech_pattern: short sentences, rarely explains himself
+            body_language: still, intense eye contact
+
+            contradiction: confident outside, fragile inside
+====================================================================================
+        Step 2: Convert Traits → Behavior Rules
+
+            Now translate this into playable rules for scenes:
+
+            “Never appear weak” → avoids apologizing, deflects emotion
+            “Power = respect” → tries to control conversations
+            Insecurity → overreacts to disrespect
+            With love → pulls away when things get emotional
+
+            👉 These become your behavior engine
+====================================================================================
+        Step 3: Build a Scene Using Conflict
+
+            A scene =
+            Goal + Obstacle + Behavior + Subtext
+
+            SCENE EXAMPLE
+            Context:
+
+            Aarav’s girlfriend confronts him for being emotionally distant.
+
+            SCREENPLAY STYLE (4 LAYERS)
+            1. ACTION
+            INT. CAR – NIGHT
+
+            Rain hits the windshield. The engine is off.
+
+            Aarav sits still, hands on the steering wheel.
+
+            Maya turns toward him, frustrated.
+            2. BEHAVIOR (What he does, not what he feels)
+            Aarav doesn’t look at her.
+
+            He tightens his grip on the wheel.
+
+            When she speaks, he gives short responses.
+
+            He checks his phone mid-conversation.
+
+            👉 This shows:
+
+            avoidance
+            control
+            emotional suppression
+            3. DIALOGUE
+            MAYA
+            Why do you shut me out every time?
+
+            AARAV
+            I’m not shutting you out.
+
+            MAYA
+            You don’t talk. You don’t feel. What is this?
+
+            AARAV
+            This is me.
+            4. SUBTEXT (What’s really happening underneath)
+            She’s asking: “Do you care about me?”
+            He hears: “You are weak and not enough”
+
+            👉 So he defends, not connects.
+
+            Key Moment (Character Revealed)
+            MAYA
+            I just want you to be honest.
+
+            AARAV
+            (looks at her, cold)
+            And say what? That I need you?
+
+            👉 That line = his wound speaking.
+
+            Step 4: Add a Trigger → Escalation
+
+            Now push his breaking point (humiliation)
+
+            MAYA
+            Maybe my friends were right about you.
+
+            Aarav turns.
+
+            That hits.
+
+            Silence.
+
+            AARAV
+            What did they say?
+
+            MAYA
+            That you act strong because you’re scared.
+
+            👉 Now:
+
+            His wound is activated
+            His belief is challenged
+            Step 5: Show Choice (This defines character)
+
+            Two options:
+
+            Be vulnerable (growth)
+            Assert control (current self)
+
+            He chooses control:
+
+            AARAV
+            (smiles slightly)
+            Then maybe you should listen to them.
+
+            He starts the car.
+
+            👉 He pushes her away instead of risking vulnerability.
+====================================================================================
+        Step 6: Extract the Pattern (So you can repeat)
+
+            From this one character, you can generate endless scenes:
+
+            Formula:
+            Put them in a situation that challenges their belief
+            Trigger their wound
+            Force a choice
+            Show behavior, not explanation
+            Step 7: Quick Conversion Cheat Sheet
+
+            When writing scenes, always translate like this:
+
+            Template Element	Scene Translation
+            Desire	What they try to get in the scene
+            Fear	What they avoid saying/doing
+            Wound	What triggers emotional reaction
+            Belief	How they justify actions
+            Trait	Body language + dialogue style
+            Moral line	The decision moment
+            Step 8: Mini Exercise for You
+
+            Take your own character and write:
+
+            A scene where someone challenges their belief
+            Add a line that hits their wound
+            Force them to choose:
+            Stay who they are
+            Or change
+
+
+
