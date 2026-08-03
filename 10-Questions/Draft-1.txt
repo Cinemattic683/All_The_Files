@@ -1,34 +1,45 @@
 Offscreen:- 
     Nurse calls sidhu and tells him that your disease can be cured just now we got your reports 
     and doctor is going through it. "Here Doctor wants to speak with you...."
-    Doctor takes the call and says "Sidhu, Dont worry we could able to diagnose your problem in early stage. Generally people
+    Doctor takes the phn and says "Sidhu, Dont worry we could able to diagnose your problem in early stage. Generally people
     with parkisons disease will get diagnosed at stage 2 or 3. But your lucky.
 
 OnScreen:-
-    Sidhu:- Ee disease vatey enni rojulu brathakachu doctor...?
+
+    Sidhu holding the reports in his hand. Name age and other details of the patient are visible.
+
+    Sidhu:- (Exhaustive tone) Ee disease vastey enni rojulu brathakachu doctor...? 
     Doctor:- Generally ee disease serious avvali antey inko 8years padataadhi. 
             (Doctor is trying to cheer him up) But look sidhu neelu em kadhu bayapadaku. Neeku medicines and diet plan 
             pampistaanu adhi follow avvu three months lo cure ayipotadhi......
     Sidhu:- Ok Doctor. (Hangs up phone) 
 
-    Sidhu is in low as he discovered that he is been attacked by parkinsons. He knew why it came, he completely regrets it and fights
-    with it. He wishes he shouldn't have done that thing with a tinder date he just met. He feels his desperation with attraction
+    Sidhu is exhausted as everyone around him are more worrying then he wants them to worry.
+    He knows the disease can be cured but the doctor said to his parents and it is unnecessarily became a big thong for them.
+    Even though sidhu is completely aware that he is not dying and it is curable, his parents made that to be big deal.
+    He knew why it came, he completely regrets it and fights with it. 
+    He wishes he shouldn't have done that thing with a tinder date he just met. He feels his desperation with attraction
     brought him here. He is always irritated like he wants to look as the person that knows everything. But he know nothing.
 
     Sidhu gets a call from his mother. He takes with her mother like he is forced to be nice with her.
     He picks the call....
     Mom:- Em annaru ra doctor??
-    Sidhu:- Taggipotaadhi anta......
+    Sidhu:- Taggipotaadhi antaaaaa......(stretches last word as he is tired of explaining them)
     Mom:- Serious em kadhu anta ga...
     Sidhu:- Intial stage ey anta amma......
     Mom:- Daddy already matladaaru doctor tho...
     Sidhu:- (Mari telisi nannu enduku adigav - anger) (exhales)
     Mom:- Nee pakistan disease serious avvatanki inka 10years avutadhi anta, needhi starting stage ey kabbati parle.
-    Sidhu:- Adhi pakistan kaadhu amma, Parkinson.......10 kaadhu, 8 yrs padtaadhi anta complete g serious avvatanki....
-    Mom:- Akkada enduku ra undatam, car pampistaaru daddy konni rojulu intiki vachey.....Health bagunaaka veldhu gaani....
-    Sidhu:- Ha sare chudham...(ends call) (hush.....)
-    
-    PLANT A SETUP AND PAYOFF FOR ENDING !
+    Sidhu:- Adhi pakistan, uzebekistan kaadhu amma, Parkinson.......10 kaadhu, 
+            8 yrs padtaadhi anta complete ga serious avvatanki....
+    Mom:- Adhey le Akkada enduku ra undatam, car pampistaaru.. daddy konni rojulu intiki vachey.....
+            Health bagunaaka veldhu gaani....
+    Sidhu:- Ha sare chudham...(hush.....)
+    Mom:- Tablets Time ki vesukovali......Ippudu 2pm ayyindhi kadha malli 4ki vesukovali marchipoku....
+            nen 4ki phn chesi gurthuchesta le 
+    Sidhu:- (ushhhhhh)
+    Mom:-  Jagrattha ayithey sare na....
+    Sidhu:- Sare amma Bye...(ends call) (These people....)
 
     Sidhu walks to his desk and sits on chair opens his laptop.
     Starts searching regarding Symptoms of Parkinson disease......
@@ -43,17 +54,20 @@ OnScreen:-
 
         Changes in Gait: Individuals may develop a SHUFFLING WALK and EXCESSIVE HAIRFALL 
 
-    While he is reaching a sudden tab opens to play a game.....(he irritates - smiches his mouth) and closes tab.
-    The tab again appears........He closes it again......
+    While he is reading a sudden tab opens to play a game.....(he irritates - smiches his mouth) and closes tab.
+    The tab again appears........He closes it again......(eheyyy)
     It appears again.........This time he pissed - instead of frustating he calms and reads what it is their in it.
 
     Its says "Answer each question and win 10k !!!!!!!" "CLICK BELOW TO START THE GAME......"
+    Sidhu be like Ilantivi enni chusam........closes the tab.
 
-    Sidhu takes a deep breath and click on start button.
+    It appears again..........
+    "Answer each question and win 10k !!!!!!!" "CLICK BELOW TO START THE GAME......"
+    Sidhu takes a deep breath thinks lets see whats in it and clicks on start button.
 
         Game rules appears........
-            For each right answer you receive 10k.
-            The answer should be Truth, If you lie you get 0 rupeee
+            For each right answer you receive 10k. (Sidhu feels abbo 10k ney....)
+            The answer should be Truth, If you lie you get 0 rupeee (shakes head sarcastically)
             10 questions - 30Minutes
 
         For Your benefit you will have two chances for first question and single chance for subsequent question.
@@ -79,29 +93,49 @@ OnScreen:-
         Suddenly sidhu's phone gets notified saying 10,000 has been credited to your account, 
         Account balance is 10,677.
 
-        Sidhu gets shocked and cheks his bank account. He sees the money.
+        Sidhu looks his phn and gets shocked and checks his bank account. He sees the money.
 
         The website says Here is your next question and displays the next question..........
 
-        Sidhu initially feels afarid that he may get scammed. He searchs in his phone that 
+        Sidhu closes the website and shuts down the laptop.
+
+        Sidhu feels afarid that he may get scammed. He searchs in his phone that 
         "Can someone steal my money in bank account without my consent"
-        The google says if you wont provide your personal details of Credit/Debit card number Its not possible to steal.
+        The google says if you wont provide your personal details of Credit/Debit card number, OTP Its not possible to steal.
         Just bannk account number is not sufficient. Hacking is more difficult than it is shown in movies !
 
+        He check his balance......10,677
+
         Sidhu feels a bit relaxed. He feels his bank account is safe........
+
+        Sidhu relaxes roames in his room checking hi balance. Whether it is real or not. He calls the bank asks them
+        to check his balance and tell the amount...
+        He sits on his bed, he moves to window, washbasin mirror every corner of his room.
+        
+        He feels confused yet he likes the free money he is getting. Looks at the laptop. 
+        Kind of money addiction is pulling him.
+
+        He calls his frnd and says "Nen neeku 10k pampinchaa nee daggarey unchu, malli teesukuntaa" Hangs up call.
+
+        Sits on the table, opens laptop. Opens the browser.....
         He looks at the website. It display the 2nd question....
+
+        He exhales and slowly read the question to answer.
 
     Q.) Have you ever insisted your girlfriend to bring her roommate whenever you met? Why? (Subjective)
 
-        Sidhu types saying "I lost intrest in my gf and besides her roomate is more sexxy than her."
+        Sidhu feels their is no need to feel shy in this Its very common these days......
+        Sidhu types saying "I lost intrest in my gf and besides her roomate is more sexy than her."
         clicks ok.
+
         The website says.....Congratulations 10,000 rupee again........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
 
         Sidhu phone notifies amount of 10,000 is being credited......
 
-        Sidhu looks at it and laughs.......He thinks that My honesty is being paid ....nice
+        Sidhu looks at it and laughs.......He says that My honesty is being paid ....nice
         Sidhu :- Honesty ki godavalu avutaay ani telusu gaani, dabbulu raatam idhey first time..(smiles)
+        Sidhu sends the money to his frnd again to save it - saftey purpose.
 
         Clicks on next question....
 
@@ -111,28 +145,40 @@ OnScreen:-
         he thinks he is absolutely right in that
         Sidhu:- Yes, yes ofcourse...
 
+        Sidhu clicks Yes
+
         The website says.....Congratulations 10,000 rupee again........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
 
         Notification - amount of 10,000 Credited......
 
-        Sidhu excites and enjoys playing this game. He feels his honesty is being gifted
+        Sidhu proudly feels and says :- "Yea thats my honesty level...!"
+
+        NEXT QUESTION
 
     Q.) If you were recently diagnosed with an illness, what do you think might be the reason for it? (Subjective)
 
         Sidhu exhales quickly (like I have been frustated for this past incident for soo long.)
+        He thinks I know the exacr reason
+
         Sidhu types "Becoz of kissing the strager woman who I found in tinder date....."
         Before clicking enter he pauses......
+
+        He recalls the message displayed "Wrong answer 0 rupee credited in your account........
+                                            This is your second chance ...... "BE HONEST" "
+        The word "BE HONEST" kind of echos in his mind.....
         He thinks Honesty is giving me the price right, So I should be honest....!
         He rewrites the answer.
-        Sidhu types "Becoz of having unprotected sex with strager woman on tinder a date....."
+
+        Sidhu types "Becoz of having unprotected sex with stranger woman on tinder a date.....resulted a disease"
 
         He clicks Enter....
 
         The website says.....Congratulations 10,000 rupee ........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
 
-        Sidhu fists his hand in triumph. Like he won the most prstigious thing...
+        Sidhu fists his hand in triumph. Like he won the most prestigious thing...
+        He kindof feels like he decoded the tricky question correctly and earned money
         He says :- "Yes I did it....., I did it....."
 
 
@@ -151,29 +197,35 @@ OnScreen:-
         The website says.....Wrong answer (sad emoji) 0 rupee credited........
         Plz "BE HONEST" next time......
 
-        Sidhu kind of shocked what, I was honest 80% and it didn't give me any reward.....
+        Sidhu kind of shocked and says :- WHAT, I was honest 
+                                            I was 80% honest ....Atleast 8000 ayina ivvachu......
 
         Website displays NEXT question........
 
     Q.) Have you ever been the reason your parents fight and stayed out of it just to protect yourself? (Subjective)
 
-        Sidhu with the mood of loosing 10k, pauses for a moment and types....
+        Sidhu with the moody of loosing 10k, pauses for a moment and types....
+
         Sidhu types:-"I once stole ₹50,000 from my father's locker for betting, thinking I'd win and repay it. 
-                    I lost everything. My parents fought over the missing money, but my father loved me so much 
-                    that he never even suspected me. "
+                    I lost everything. My parents fought over the missing money, I dont know why but my father 
+                    dind't suspect me. "
 
         Sidhu feels a bit guilt after typing it......and clicks enter.
 
         The website says.....Congratulations 10,000 rupee ........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
         
+        Meanwhile sidhu picks his phn and says "Mundhu ee dabbulu maa frnd gaadiki pampincheyali....."
+        Sidhu sends the money to his friend...
+
         Website displays NEXT question........
+
 
     Q.) Have you ever bought clothes you didn't actually like? Why? 
 
         Sidhu types:- 
             "I once bought a shirt and pants I didn't even like because the shop owner kept staring at me. 
-            I didn't want to look like I was just wasting his time. Intovert Problem"
+            as if Iam a cheap guy window shopping and can't afford his clothes."
 
         The website says.....Congratulations 10,000 rupee ........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
@@ -190,7 +242,7 @@ OnScreen:-
 
         Sidhu says :- Idhenti idhi nen honest ganey unna kadha.....
                         Nen eppudu aa pani cheyyaled.......(Ohh)
-                        (shit) Inter lo oksari chesa.....shit !
+                        (shit) Inter lo unnapudu oksari chesa.....shit !
 
     
     Q.) What is your weird fantasy to do with your Girl Friend ? (Subjective)
@@ -201,7 +253,7 @@ OnScreen:-
         The website says.....Congratulations 10,000 rupee ........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
 
-    Q.) When is the last time you felt happy by heloing others ??? (Subjective)
+    Q.) When is the last time you felt happy by helping others ??? (Subjective)
 
         Sidhu types:- "Ninna hospital nunchi vastunappudu, pakkaney unna beggar ki 500 ichaa.....
                         thatha entha anandha paddadooo. Adhi chusi naaku self satisfaction vachindhi...."
@@ -210,6 +262,7 @@ OnScreen:-
         The website says.....Congratulations 10,000 rupee ........
         Thanks for your Honesty and your Honesty deserve a Gift ! 
 
+    Sidhu proudly says :- My Honesty Definitely deserves a gift....
 
     The website displays Thanks for participating and I wish you had a great experience.
     Congratulations. 
@@ -219,10 +272,11 @@ OnScreen:-
 
     Sidhu read the message saying 8yrs of life. 
     Sidhu:- WHAT ??? What 8yrs cost my life......?????
+            (sarcastically) Em 8years of life ra....???? 
 
-    He ignores it and causually picks his phone. Checks hi account balance. Acc Balance would be 80,677.
+    He ignores it and causually picks his phone. Checks hi account balance. Acc Balance would be 40,677.
+    He calculates. 40,000 vaadiki pampaa, 40,000 bank lo undhi......Total 80,000...Hmm Saripoyindhi lekka. 
     He smiles, suddenly he feels more weak.
-    A long shot of him shows he got some white hair.
 
     He feels almost weak like something strange suddenly happened to him......
     His hands start to shiver, he doesn't even have the strength to hold his phone. His phone slips in a moment.
@@ -230,22 +284,28 @@ OnScreen:-
     He spine bends and become weak. He slowly stands like an 90year old grandfather. His posture is completely bent.
 
     He shivers and struggles to walk near the mirror. He take help of near by window or table to walk.
-    He walks to mirror. He looks himself. He looks vert weak to him....
+    He walks to mirror. He looks himself. He looks very weak to him.... 
+    He doesn't even have strength to close his jaw, His jaw is left open.... 
 
-    Suddenly he realises the doctor words saying "It will take around 8years for parkisons disease to fully corrupt body"
+    Suddenly he realises the doctor words saying "It will take around 8years for parkisons disease to fully destroy body"
     and the words on the website that says "The price: 8 years of your life (smiley angel emoji)"
 
-    These both line are continously run in his mind.He suddenly becomes more afraid as He coughs uncontrollably.
+    These both line are continously run in his mind. He suddenly becomes more afraid as He coughs uncontrollably.
     Suddenly realises the symptoms of parkisons disease.......
 
     He keeps his hand on his hair and pulls front to check the hair strength......
 
-    Terrifyingly his hand would have a bunh of heavy thick hair......
+    Terrifyingly his hand would have a bunch of heavy thick hair......
 
     He looks in the mirror, his eyes are completely filled with tension. Tears, couldn't understand what happened.
     His greedy of 10k cost his life.......
     His starts to shiver and faints.......
+    
+        BLANK SCREEN.............
 
-            BLANK SCREEN.............
-        
+    He gets a phone call from his frnd "Arey mowa 40,000 entra.......Ewww/Ohh Party eppudu ..!!!"
+
+        ABRUPT MUSIC ENDS 
+
+                                    THE END         
 
