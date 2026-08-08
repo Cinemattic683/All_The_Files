@@ -1,0 +1,21 @@
+Plot:- 
+    A man finds a Book/Diary. Every page contains a person's name, address biodata & DATE OF DEATH.
+    Each page have the person brief details. The man become curious to find the people and whether
+    the details in the dairy are true or not.
+
+Plot:-
+    A person who is living alone in his room thinking he is lonely start hearing a female voice.
+    He doesn't know the origin of voice, initially he is scared of voice but eventually the voice 
+    talks back to him and becomes his only companion.
+
+Plot:- 
+    "The Missing Hour" Everyday b/w 7pm to 8pm a man loses memory. His dress would be changed in
+    that 1hr. Sometimes his dress turns dirty. He sees msgs/calls that he didn't ever remember. He
+    doesn't have the memory of that one hr.
+
+
+NOTE:- 
+    The Mystery is not the Final Answer. It should be an unexplained element that creates tension,
+    nut the ending should complete the characters emotional journey.
+
+    => "Why is this happening?" -> We never Know -> but we understand what it does to the Person.
